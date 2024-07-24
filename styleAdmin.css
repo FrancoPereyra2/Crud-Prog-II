@@ -1,0 +1,64 @@
+body
+{
+    background-color: rgb(14, 1, 43);
+    color: white
+}
+*{
+    color: white;
+}
+.title-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  .title-icon {
+    cursor: pointer;
+    padding-left: 200px;
+    position: absolute;
+    left: 0;
+  }
+
+.form-control {
+    width: 80%;  
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    margin: 0 auto; 
+}
+.container {
+    text-align: center; 
+    margin-bottom: 20px;
+}
+
+#inputSabanas
+{
+    color: black;
+}
+#inputHabt
+{
+    color: black;
+}
+#BtnUpDate
+{
+    width: 150px;
+    height: 40px;
+}
+#inputAlm
+{
+    color: black;
+}
+#inputBatas
+{
+    color: black;
+}
+#BtnAdd
+{
+    width: 85px;
+    height: 40px;
+}
+a
+{
+    color: rgb(255, 0, 0);
+}

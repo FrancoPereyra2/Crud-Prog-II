@@ -1,0 +1,65 @@
+body
+{
+    background-color: rgb(1, 39, 46);
+    color: white
+}
+*
+{
+    color: white;
+}
+.title-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  .title-icon {
+    cursor: pointer;
+    padding-left: 200px;
+    position: absolute;
+    left: 0;
+  }
+
+.form-control {
+    width: 80%;  
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    margin: 0 auto; 
+}
+.container {
+    text-align: center; 
+    margin-bottom: 20px;
+}
+
+#ImputSalida
+{
+    color: black;
+}
+#ImputIngreso
+{
+    color: black;
+}
+#BtnAdd
+{
+    width: 85px;
+    height: 40px;
+}
+#BtnUpDate
+{
+    width: 150px;
+    height: 40px;
+}
+#inputEmail
+{
+    color: black;
+}
+#inputName
+{
+    color: black;
+}
+#ImputNumero
+{
+    color: black;
+}
